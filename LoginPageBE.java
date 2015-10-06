@@ -8,7 +8,7 @@ public class LoginPageBE {
 	private ResultSet rs;
 	
 	public LoginPageBE(){
-		
+		//ECL: Checking things here
 	}
 	
 	public void setupDB(){
